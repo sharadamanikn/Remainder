@@ -156,7 +156,7 @@ const main = async () => {
                 break;
             }
             case "11":
-                console.log("Exiting...");
+                console.log("Exiting");
                 process.exit(0);
             default:
                 console.log("Invalid option. Try again.");
